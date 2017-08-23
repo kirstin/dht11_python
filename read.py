@@ -1,3 +1,7 @@
+# Author: Kirstin Heidler
+# loosely based on the code by uugear:
+# http://www.uugear.com/portfolio/dht11-humidity-temperature-sensor-module/
+
 import RPi.GPIO as GPIO
 import time, sys, traceback
 
