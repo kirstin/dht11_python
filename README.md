@@ -9,6 +9,6 @@ Simply run the script using:
      python read.py
      
      
-This script was thested on the RaspberryPi 3. Older versions of the PI might be unable to get sensible data with this script.
+This script was tested on the RaspberryPi 3. Older versions of the PI might be unable to get sensible data with this script.
      
      
